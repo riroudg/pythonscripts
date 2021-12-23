@@ -1,3 +1,9 @@
+# 
+# Datei: hello.py
+#
+# Erstellt 2021-12-23-scma
+
+
 import os
 
 os.system('clear')
